@@ -6,12 +6,13 @@ public class CoordinateBean implements Serializable {
 	private double longitude;
 
 	
-	public CoordinateBean() {}
+	private CoordinateBean() {}
 	
 	public CoordinateBean(double latitude, double longitude) {
 		this.latitude = latitude;
 		this.longitude = longitude;
 	}
+
 	
 	public double getLatitude() {return latitude;}
 
