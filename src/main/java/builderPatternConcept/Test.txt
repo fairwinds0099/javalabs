@@ -1,0 +1,8 @@
+hilton    ;tonisen         ;1111123;54321;Blue St             ;Lenexa;Kansas;66218;2005 ;Toyato   ;Corolla
+daciano   ;kiehnlein       ;1111134;12345;College Blvd        ;Overland Park;KS;66213;2005 ;Honda ;Civic
+zhuying   ;ferrario        ;1111124;12321;College Blvd.       ;Mission;KS;33221;2015 ;Mercedes;C200
+aboubakary;minges          ;1111128;98765;College Blvd.       ;Kansas City;KS;66231;2016 ;Audio   ;A8
+jaciara   ;ploegar         ;1111132;245441;College Blvd        ;Olathe;KS;66123;2019 ;Toyato   ;Camry
+karmele   ;badalyants      ;1111153;12345;College Blvd.       ;Lansing;KS;66201;2015 ;Toyato   ;Yaris
+Suzan     ;dry             ;1111132;1111;College Blvd.       ;Lenexa    ;KS;66212;2019 ;Toyato   ;Sienna
+Alex      ;Rolex           ;1111134;6754;Smithson St.        ;Kansas City;KS;66231;2013;Toyato   ;Prius
